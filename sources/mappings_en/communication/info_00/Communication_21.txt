@@ -1,0 +1,564 @@
+﻿Typical-Schoolgirl:「わぁっ！？　と、トイレ間違えてるよ？　ここ女子トイレ！」
+Typical-Schoolgirl:「きゃあぁっ！　ダメダメ、見ちゃダメ～っ！」
+Typical-Schoolgirl:「私、ちょっと急いでるんだ、ごめんね」
+Typical-Schoolgirl:「……なーに？」
+Typical-Schoolgirl:「あっごめんね、友達に呼ばれちゃった！」
+Typical-Schoolgirl:「むにゃむにゃ……ママぁ、ご飯まだぁ……？」
+Typical-Schoolgirl:「わわっ……ちょっ、わっ、そっち向いててぇ！」
+Typical-Schoolgirl:「う～、あんまり見ないで……お腹は絶対見ちゃダメだよ」
+Typical-Schoolgirl:「あ、キミも気分転換？　屋上って気持ちいいよねー」
+Typical-Schoolgirl:「あ、噂をすればーって、今はどこでもキミの噂で持ちきりだよね」
+Typical-Schoolgirl:「わっ！　こ、こんな所で奇遇だね～。どうしたの？」
+Typical-Schoolgirl:「えっと……何かナイショのお喋り？　それともどこかに行くの？」
+Typical-Schoolgirl:「えっ！？　そんな所一緒に入れないよ？　つ、付いてくのはここまでね」
+Typical-Schoolgirl:「あっ、もしかして私を探してくれてたの？」
+Typical-Schoolgirl:「ねえ、チャック開いてるよ……えへへっ、ひ、引っかかったなー！」
+Typical-Schoolgirl:「おーい、やっほー！」
+Typical-Schoolgirl:「あれ、今日はコイカツ部もここで活動するの？」
+Typical-Schoolgirl:「コイカツ部頑張ってる～？　何かできることあったら言ってね！」
+Typical-Schoolgirl:「やった、お昼ご飯だー！　お腹と背中がくっついちゃうよ～」
+Typical-Schoolgirl:「今日もあっという間だったね。お疲れ様ー」
+Typical-Schoolgirl:「きゃっ！　あ、キミ？　もー、変な声出しちゃったよ～」
+Typical-Schoolgirl:「ん？　なになに？」
+[K]:「友達が多いイメージあるんだけど、どうやったら仲良くなれるの？」
+Typical-Schoolgirl:「うーん……相手の目を見て話すことかなぁ。こうやって♪」
+Typical-Schoolgirl:「うーん？　ごめん、あまり考えたことなかったかな……」
+[K]:「そういえば、駅前に新しいクレープ屋さんがオープンしてたよ」
+Typical-Schoolgirl:「そうなんだよね～、実は全種類コンプリートしちゃったんだ♪」
+Typical-Schoolgirl:「知ってるよー、でも私は隣りのたこやき屋さんの方がいいかなぁ」
+[K]:「自分の性格を一言で言うとなんだと思う？」
+Typical-Schoolgirl:「や、優しい……？　うーん、自分で言うのもな～」
+Typical-Schoolgirl:「ギク……あ、あのね、人は一言では言い表せないものなんだよ！」
+Typical-Schoolgirl:「面白くないわけじゃないよ？　でも、ちょっと別の話題がいいかな」
+[K]:「あのさ……あれ？　言おうとしてたこと忘れちゃった」
+Typical-Schoolgirl:「あはは、あるある。思い出したらすぐ言っていいからね」
+[K]:「そういえば、昨日のテレビで……」
+Typical-Schoolgirl:「あっ、私も見たよ。もうお腹かかえて笑っちゃったよ～」
+[K]:「さっきクラスメイトに聞いたんだけど……」
+Typical-Schoolgirl:「へ～、そんなことがあったんだ。豆知識ゲットだね」
+[K]:「友達から男の人を紹介されたことってある？」
+Typical-Schoolgirl:「あるけど、断っちゃう。付き合うなら知ってる人の方がいいもん」
+Typical-Schoolgirl:「今は勉強に集中したいしね、出会いはいいかなー」
+[K]:「友達から恋の相談をされたことってある？」
+Typical-Schoolgirl:「あるけど、私自身経験がないから無難なことしか言えてないかも」
+Typical-Schoolgirl:「ないよーだって私、誰かと付き合ったこととかないもん」
+[K]:「好きな男性のタイプってある？」
+Typical-Schoolgirl:「やっぱり、優しい人がいいかな？　一緒に支え合いたいって思うし」
+Typical-Schoolgirl:「まだ付き合ったことないから、自分でもよく分からないかも」
+Typical-Schoolgirl:「男女でこういう話するのって恥ずかしいし、別のにしない？」
+[K]:「コイバナ……コイバナ……うーん、ホットな話題がないなぁ」
+Typical-Schoolgirl:「女子校だと割とそうなりがちなんだよね～」
+[K]:「うーん……コイカツ部の活動をちゃんとできてるか不安だなぁ」
+Typical-Schoolgirl:「私は一生懸命やってると思うよ。大丈夫、がんばってね！」
+[K]:「そういえばこの前、偶然耳にしちゃったんだけど……」
+Typical-Schoolgirl:「それって、禁断の恋ってやつ！？　そ、それで……！？」
+[K]:「積極的な男性ってどう思う？」
+Typical-Schoolgirl:「私がそういうタイプじゃないから、積極的な男の人の方が好みかなぁ」
+Typical-Schoolgirl:「うーん、そういう人はちょっぴり苦手かな？」
+[K]:「慎重な男性ってどう思う？」
+Typical-Schoolgirl:「何事も慎重なのはいいと思うなぁ。頼り甲斐があるって思っちゃう」
+Typical-Schoolgirl:「うーん、もし私の好きな人だったらヤキモキしちゃいそう」
+[K]:「勤勉な男性ってどう思う？」
+Typical-Schoolgirl:「コツコツ出来る人って憧れるから、尊敬しちゃうな」
+Typical-Schoolgirl:「その人が私のこと合わないって思いそう。私結構抜けてるから」
+[K]:「マイペースな男性ってどう思う？」
+Typical-Schoolgirl:「私は伸び伸びとしてていいな～って思うよ。のび～って」
+Typical-Schoolgirl:「周りに迷惑をかけなければそれでいいと思うけど、あまり、かな？」
+[K]:「優しい男性ってどう思う？」
+Typical-Schoolgirl:「男の人って見た目が強そうだから、優しくしてくれると安心するよね」
+Typical-Schoolgirl:「優しすぎるのは大変そうだよね。ほどほどが一番だと思う」
+[K]:「クールな男性ってどう思う？」
+Typical-Schoolgirl:「何にも動じない人ってすごいよね。守ってもらいたくなっちゃうな」
+Typical-Schoolgirl:「私はあったかい人の方が好き、かな？　ちょっと怖いから」
+[K]:「女友達とエッチな話とかしたりする？」
+Typical-Schoolgirl:「た、たまーに？　って何言わせてるの、も～ナイショ！」
+Typical-Schoolgirl:「も～、そんなこと男の子に教えられませんー」
+[K]:「具体的にエッチってどんなことするか知ってる？」
+Typical-Schoolgirl:「そ、それぐらい私でも知ってるよー。具体的には言わないけどね？」
+Typical-Schoolgirl:「あ、あんまりよく知らないけど……それが普通じゃない？」
+[K]:「りょ、両親のエッチとか見ちゃった思い出とかある？」
+Typical-Schoolgirl:「……ま、まあ……昔は川の字で寝てたし、多少は……？」
+Typical-Schoolgirl:「み、見たことないし、あっても言えないよ、そんなこと」
+Typical-Schoolgirl:「こういう話はキミとしたくないな。もっと楽しいお喋りしよ？」
+[K]:（ちょっとエッチなこと聞いちゃおうかな……？）
+Typical-Schoolgirl:「あ、今エッチなこと考えてたでしょ。目がニヤニヤしてたもん、だーめ」
+[K]:「エッチなこと聞いていい？」
+Typical-Schoolgirl:「ちょっと直球すぎない～？　いや、変化球でもダメだけどね？」
+[K]:「昨日こんなことがあったんだけど……」
+Typical-Schoolgirl:「……も～、エッチな話なら聞かなかったのに～」
+Typical-Schoolgirl:「私、他の子に比べて影薄いって言われるけどそんなことないよね！？」
+Typical-Schoolgirl:「だ、だよね！　よかった～ちゃんと私のこと分かってくれる人がいて」
+Typical-Schoolgirl:「や、やっぱり……何かほしいなー、私だけのオンリーワン」
+Typical-Schoolgirl:「な、なんで目を逸らすの！？　はっきり言ってよ～」
+Typical-Schoolgirl:「ねえねえ、キミって動物好きな方？　ワンちゃんとか」
+Typical-Schoolgirl:「ホント！？　私も大好きっ、くりっとしたオメメとかたまらないよね！」
+Typical-Schoolgirl:「え！？　実は私もちょっと苦手なんだ。小っちゃい頃にちょっとね～」
+Typical-Schoolgirl:「キミって育ち盛りだよね？　よく食べる方？」
+Typical-Schoolgirl:「私もママに食べ過ぎって言われるけど、育ち盛りなら仕方ないよね？」
+Typical-Schoolgirl:「そうなんだ！　私とどっちが小食かな？　今度勝負してみる？」
+Typical-Schoolgirl:「そういえば一人暮らしなんだよね？　自炊したりするの？」
+Typical-Schoolgirl:「へ～意外！　私もよくママのお手伝いでするんだ、楽しいよね」
+Typical-Schoolgirl:「えへへ、やっぱり～！　えっ私？　えーと、お皿を運んだりはするよ？」
+Typical-Schoolgirl:「運動って出来るほう？　体育の授業好き？」
+Typical-Schoolgirl:「私も好き～。身体を動かすのって気持ちいいよね！」
+Typical-Schoolgirl:「一緒～！　運動音痴同盟組もっ、逆上がり出来ない同盟でもいいよ」
+Typical-Schoolgirl:「勉強って普段からするタイプ？」
+Typical-Schoolgirl:「それじゃ私と一緒かも。テストが近くなったら一緒に勉強会しようよ」
+Typical-Schoolgirl:「あはは、お互いに赤点だけは気を付けないとねー」
+Typical-Schoolgirl:「制服しか見たことないけど、おしゃれってする方？」
+Typical-Schoolgirl:「やっぱり男の子でも気にするんだね。私もお小遣いで服とか買うよ」
+Typical-Schoolgirl:「えへへへ……私もあんまり。いつもママの買ってきた服着てるよぉ」
+Typical-Schoolgirl:「そうなんだー、私とは違うんだねー」
+Typical-Schoolgirl:「も～……それよりも私、言ってほしいことあるなぁ……」
+Typical-Schoolgirl:「私もちょっと怒りすぎたかも……ごめんなさい。これで仲直り、ね？」
+Typical-Schoolgirl:「むぅ……許してあげたいけど、ダメ！　やっぱり私まだ怒ってるな」
+Typical-Schoolgirl:「……んっ？　何見てるの？」
+Typical-Schoolgirl:「ちょっと見すぎだよ～。恥ずかしいからやめてってば」
+Typical-Schoolgirl:「あはは……さすがにちょっぴり怖いかも」
+Typical-Schoolgirl:「あっ、どこ見てるの？　も～、男の子だなぁ」
+Typical-Schoolgirl:「また見てる～。私のなんて見ても面白くないでしょ？」
+Typical-Schoolgirl:「見ても減るもんじゃないとか思ってない？　色々減ーりーまーすぅ」
+Typical-Schoolgirl:「……こんな時にどこ見てるのかな……？」
+Typical-Schoolgirl:「きゃっ！　な、なになに？　て、手相……見るの？」
+Typical-Schoolgirl:「ひゃえ！？　だ、だからー、びっくりするの。もうやっちゃダメだよ？」
+Typical-Schoolgirl:「か、彼女でもない女の子の手をすぐ握っちゃダメー！」
+Typical-Schoolgirl:「ひゃああっ！？　な、なんで？　つまづいちゃった？」
+Typical-Schoolgirl:「きゃっ！　もう、他の子にこんなことしたら蹴り飛ばされちゃうよ？」
+Typical-Schoolgirl:「さすがにもうダメ！　女の子のおっぱいは大切なものです！」
+Typical-Schoolgirl:「え？　えっと……ほこりでもついて、た？」
+Typical-Schoolgirl:「だーめ、恥ずかしいよ。誰かに見られたら勘違いされちゃうし」
+Typical-Schoolgirl:「も～、なでなでしようとするの禁止～！」
+Typical-Schoolgirl:「ひゃっ！？　なになに？　いたずら？　も～」
+Typical-Schoolgirl:「こりゃー、私のほっぺはキミのプニプニ専用じゃないー」
+Typical-Schoolgirl:「ほっぺみたいな柔らかいものが好きなの？　でもダメだよ、もう」
+Typical-Schoolgirl:「ちょっと～何しようとしたの？　もっと他にすることあるよね？」
+Typical-Schoolgirl:「なんだか、段々キミのことが分かってきた気がするなー」
+Typical-Schoolgirl:「次はどんなお喋りしよっか？」
+Typical-Schoolgirl:「どんなお話がいいかな？」
+Typical-Schoolgirl:「何も話すことがないなら私行っちゃうよ。いいの？」
+Typical-Schoolgirl:「は～……もうここまでにしよっか。ちょっと疲れちゃった」
+Typical-Schoolgirl:「今はあんまり話す気分じゃないかも、ごめんね」
+Typical-Schoolgirl:「そろそろ行かなきゃ。出来ればずっとこうしてたいけど、また今度ね」
+Typical-Schoolgirl:「ね、この後……えっもうこんな時間？　な、何でもない、またね！」
+Typical-Schoolgirl:「あ、そろそろ行かなきゃ。それじゃまたね」
+Typical-Schoolgirl:「わかった。私でよかったらいつでも話しかけていいからね」
+Typical-Schoolgirl:「うん、バイバイ」
+[K]:「よかったら一緒に帰らない？」
+Typical-Schoolgirl:「今日は何もないし、いいよ～」
+Typical-Schoolgirl:「ごめん、今日は友達と遊びに行く約束があるの。また今度ね！」
+[K]:「よかったら一緒に勉強しない？」
+Typical-Schoolgirl:「あ、私ちょうど解らないところがあったんだ。聞いてもいい？」
+Typical-Schoolgirl:「ごめん、今は無理。でもまた誘ってくれる？　テスト不安だから……」
+[K]:「一緒に身体を動かさない？」
+Typical-Schoolgirl:「ＯＫ～。じゃあちょっと着替えてくるね」
+Typical-Schoolgirl:「えっとー……運動不足でもないし、私はいいかな？」
+[K]:「ちょっと付いてきてもらっていい？」
+Typical-Schoolgirl:「うん。何かあったの？」
+Typical-Schoolgirl:「あ、友達が待ってるからまた今度でいい？　ごめんね～」
+Typical-Schoolgirl:「きゃっ！　も～、私じゃなかったら大声出されて事件だよ？」
+Typical-Schoolgirl:「あっ、こらーっ！　ここは立ち入り禁止だよ！」
+Typical-Schoolgirl:「び、びっくりしたぁ。でも私だけでよかったね、ほら、こっそり出よ？」
+Typical-Schoolgirl:「もう！　覗きはダメー！　こっちも見ない！　はい、回れ右！」
+Typical-Schoolgirl:「ムー……つーんだ！」
+Typical-Schoolgirl:「もう……なあに？」
+Typical-Schoolgirl:「ごめん、ちょっと今時間ないから、また今度ね、絶対だから！」
+Typical-Schoolgirl:「きゃあっ！　あっち向いて！　いくらキミでもダメなものはダメ！」
+Typical-Schoolgirl:「わっ見ちゃダメ。キミに見られると恥ずかしいんだよ～」
+Typical-Schoolgirl:「お腹を見ないって約束してくれるなら、ちょっとだけ見ていいよ……？」
+Typical-Schoolgirl:「あんまりジロジロ見ないでね？　ホントにホントに恥ずかしいんだから」
+Typical-Schoolgirl:「やっほー。屋上って気持ちいいよね～」
+Typical-Schoolgirl:「あ、さっき友達とキミのこと話してたんだよ～」
+Typical-Schoolgirl:「あっ、えへへ……今、ママに忘れ物を届けてもらったところだったの」
+Typical-Schoolgirl:「うん、どうしたの？」
+Typical-Schoolgirl:「こら、男の子は女の子の秘密の花園に入っちゃいけないんだよ」
+Typical-Schoolgirl:「えへへ、今度のデート……二人でいーっぱい遊ぼうね！」
+Typical-Schoolgirl:「あ、さっき友達とキミのこと話してたんだよ～」
+Typical-Schoolgirl:「えへへ、私でよければ色々付き合ったり手伝ったり……できるよ？」
+Typical-Schoolgirl:「えっ、タオル？　ありがとぉ。んふふ、ふかふか～」
+Typical-Schoolgirl:「もしよかったら見学していく？　なーんて、コイカツ部一筋だもんね」
+Typical-Schoolgirl:「部長さん、がんばってる～？」
+Typical-Schoolgirl:「やっと午前中終わったね～。お昼何にしようかな～」
+Typical-Schoolgirl:「帰りのHRが終わった瞬間って、すごい解放感だよね～」
+Typical-Schoolgirl:「わっ！？　む～、おどかしたの？　いつかお返ししちゃうんだから！」
+Typical-Schoolgirl:「あ、もしかして私？」
+[K]:「よく幼馴染み感あるって言われない？　優しいし、世話焼きだし」
+Typical-Schoolgirl:「優しいはあるよ。なになに、私みたいな幼馴染みがほしいってこと～？」
+Typical-Schoolgirl:「言われたことないよ～。でも、そういう風に見てくれるのは嬉しいかも」
+[K]:「Jポップよく聴く方？」
+Typical-Schoolgirl:「うん、ジャンルで言えばJポップばっかりかな。CMで流れてるやつとか」
+Typical-Schoolgirl:「進んで聞くわけじゃないけど、ラジオから流れてくるときは聞いてるよ」
+[K]:「習い事とかしてる？」
+Typical-Schoolgirl:「うん。小さい頃からスイミングに通ってるよ～」
+Typical-Schoolgirl:「昔ママに言われてそろばん教室に通ってたけど、今はしてないよ」
+[K]:「本ってよく読む？」
+Typical-Schoolgirl:「好きな映画の原作とか。小説だと内容が違ってたりして楽しいよ」
+Typical-Schoolgirl:「えーっと、漫画は本に入りますか？　それならよく読むんだけどぉ」
+Typical-Schoolgirl:「えっとぉ、うーん……ごめん、よかったら、別のお話にしない？」
+[K]:「そういえばこの前、信号待ちしてたら……」
+Typical-Schoolgirl:「え～すごい！　私もそこにいたかったなぁ！」
+[K]:「キスに憧れてたりする？」
+Typical-Schoolgirl:「うえっ？　ま、まーそりゃ、私も年頃の女の子ですしー、ねー？」
+Typical-Schoolgirl:「キスというよりは、キスしたくなるぐらい好きな人には憧れたいな」
+[K]:「白馬の王子様に憧れたりする？」
+Typical-Schoolgirl:「夢見がちって思われちゃうかもだけど、やっぱり憧れちゃうな」
+Typical-Schoolgirl:「小さい頃は憧れてたけど、今はもっと親しみやすい人がいいかな？」
+[K]:「いつぐらいまでに結婚したいとかある？」
+Typical-Schoolgirl:「詳しい歳は恥ずかしいから教えないけど、あるよ、女の子だもん」
+Typical-Schoolgirl:「考えたことないけど、落ち着いて付き合える人が見つかったときかな？」
+[K]:「理想的な結婚生活って考えたことある？」
+Typical-Schoolgirl:「あるよー。とりあえず旦那さんと仲良く暮らせたらいいなって」
+Typical-Schoolgirl:「考えたことなかったけど、お互いに理解し合えたらいいな」
+Typical-Schoolgirl:「ちょっと恥ずかしいから、他のこと話そ？」
+[K]:「今日、学食で見ちゃったんだけど……」
+Typical-Schoolgirl:「えっ！　それって……そういうことだよね？　大恋愛だぁ～、いいなぁ」
+[K]:「いつぐらいからエッチなこととか興味持つようになった？」
+Typical-Schoolgirl:「ええっ？　そ、そんなこと聞いちゃうの？　うーん……小二、ぐらい？」
+Typical-Schoolgirl:「そ、そんなの恥ずかしすぎて言えないよぉ！」
+[K]:「友達のエッチの体験談とか聞いたことある？」
+Typical-Schoolgirl:「本当に仲のいい友達とかならあるけど……内容は教えないよ！？」
+Typical-Schoolgirl:「ううん、聞いたことない。けど、ちょびっとだけ、興味はあるかも」
+[K]:「ドラマとかでエッチな場面があるとき、結構見ちゃう？」
+Typical-Schoolgirl:「それは、見るよ？　だってドラマだし、話の流れ的にしょうがないもん」
+Typical-Schoolgirl:「あー、ママがチャンネル変えちゃうんだよね。だから見れないかな」
+[K]:「エッチな妄想ってよくする方？」
+Typical-Schoolgirl:「妄想って言い方はアレだけど、将来のこととか考えるときはあるよ？」
+Typical-Schoolgirl:「妄想はしないけど、正しい知識は持っておいた方がいいと思うよ」
+Typical-Schoolgirl:「こういうところでそういう話はちょっと……別のお話にしない？」
+[K]:「これ、言っていいのかな。この前、校舎裏でエッチな声が聞こえて……」
+Typical-Schoolgirl:「い、言っちゃダメだと思う……けど、それでどうなったの？」
+Typical-Schoolgirl:「最近キミのことが分かってきた気がするんだけど、キミはどう？」
+Typical-Schoolgirl:「キミも？　えへ、何だかこういうのっていいよね。うん、すごくいい」
+Typical-Schoolgirl:「私の気のせい！？　は、恥ずかすぃ～、というかイジワル～！」
+Typical-Schoolgirl:「ズバリ聞くね、コーヒーはブラック派？」
+Typical-Schoolgirl:「わかる、コーヒーはブラックだよね。格好つけとかじゃなくて！」
+Typical-Schoolgirl:「うんうん♪　だよねー、私はミルクも砂糖も大盛り！　紅茶もそうだよ」
+Typical-Schoolgirl:「辛いのって平気？　料理の話なんだけど」
+Typical-Schoolgirl:「なら駅前に超激辛麻婆丼出す店があるよ！　私そこの常連なんだ♪」
+Typical-Schoolgirl:「私も苦手ー。舌がヒリヒリして、なんの味もわからなくなっちゃうよね」
+Typical-Schoolgirl:「甘いものってよく食べる方？　スナック、スイーツ、なんでもいいよ」
+Typical-Schoolgirl:「あは、私もよく食べすぎ……てはないけど、まあ、誘惑が……ね？」
+Typical-Schoolgirl:「見つけたー！　女子には少ないんだよ、苦手な人。仲間、仲間！」
+Typical-Schoolgirl:「ちょっと聞きたいんだけど、理想的な胸の大きさってある？」
+Typical-Schoolgirl:「えへへ……って何ワキワキさせてるの！　誘ったわけじゃないもん！」
+Typical-Schoolgirl:「えへへ、やっぱり普通が一番だよね、普通が！」
+Typical-Schoolgirl:「うう、そんな嬉しいこと言ってくれるのはキミだけだよぉ！」
+Typical-Schoolgirl:「あのさぁ……女の子の身長に好みってある？　高いとか低いとか」
+Typical-Schoolgirl:「私みたいに高くても大丈夫なんだ。えへへ、キミって変わってるね」
+Typical-Schoolgirl:「や、やったぁ。今まで影が薄かったけど、ここで日の目を浴びれたよ～」
+Typical-Schoolgirl:「えっ、本当！？　なら私、牛乳飲むのやめちゃおっかな、えへへ」
+Typical-Schoolgirl:「女の子の体型の好みって気にしたことある？」
+Typical-Schoolgirl:「ほ、本当？　ちょっと恥ずかしいけど、このままでいようかなぁ」
+Typical-Schoolgirl:「やったー、ダイエットもしなくていいし、ちゃんこ鍋も食べくていいんだ～」
+Typical-Schoolgirl:「てっきりモチモチな子が好きなのかと思ってたぁ。現状維持決定！」
+Typical-Schoolgirl:「ふーん、そういう子が好みなんだねー……」
+Typical-Schoolgirl:「も～、楽しいお話の前に、しっかりしないといけないことがあるよね？」
+Typical-Schoolgirl:「しょうがないなぁ。キミだから許してあげるんだからね？」
+Typical-Schoolgirl:「うーん。私が怒ってる理由をもうちょっとだけ考えてみてほしいな」
+Typical-Schoolgirl:「うう？　じーっと覗き込まれるのって、落ち着かないね」
+Typical-Schoolgirl:「目線で何か訴えてる？　うーん、なんだろ……」
+Typical-Schoolgirl:「ジロジロ見てもお菓子あげたりしないよ？　こーら、恥ずかしいの」
+Typical-Schoolgirl:「こら、胸見てるのすぐわかるよ。他の子と話すときは気を付けてね」
+Typical-Schoolgirl:「むー、私も見返してやるぅ。え？　どこをって……し、知らない！」
+Typical-Schoolgirl:「胸は岩屋戸に隠れて一生出てきませんでした。めでたし、めでたし」
+Typical-Schoolgirl:「いいから私の目をちゃんと見てくださーい」
+Typical-Schoolgirl:「ひゃっ……もー、女の子同士じゃないんだから～」
+Typical-Schoolgirl:「きゃっ……私の手に何かあるの？　イタズラはダメだよ～？」
+Typical-Schoolgirl:「さすがに握りすぎ！　私の手はお寿司じゃないんだよ～」
+Typical-Schoolgirl:「こ、こぉら～！　いきなりはダメだよ～！　い、いきなりじゃなくてもね！」
+Typical-Schoolgirl:「だからダメ～！　私なら触っても怒られないとか思ってるー？」
+Typical-Schoolgirl:「バリアー！　おっぱいはダメ！　あ、私もおっぱいとか言うのダメ！」
+Typical-Schoolgirl:「唐突だなぁもう……ちょっとだけだからね？」
+Typical-Schoolgirl:「またぁ？　恥ずかしいからダメ！　一回だけの大サービスだったの！」
+Typical-Schoolgirl:「恥ずかしいんだってばぁも～。どう言ったら分かってくれるの？」
+Typical-Schoolgirl:「ぴゃっ！　つ、つねったりしたら、怒るからね？」
+Typical-Schoolgirl:「ううっ。ぞ、ゾクゾクしちゃうから触るの禁止～」
+Typical-Schoolgirl:「ほっぺハンターは禁止だってば。も～、ダメなものはダメなの」
+Typical-Schoolgirl:「ヤ～ダ。今はヤなの」
+Typical-Schoolgirl:「キミっていい人だよね。なんとなーく、ふと、そう思っちゃった」
+Typical-Schoolgirl:「ね、ねえ。さっきの話の続き、もっと聞いてもいいかなぁ？」
+Typical-Schoolgirl:「何だか話題が尽きないんじゃなくて、自然と探しちゃうって感じだね」
+Typical-Schoolgirl:「考え中……考え中……えへへ、クイズ番組みたい」
+Typical-Schoolgirl:「ねえ、今何考えてるの……？」
+Typical-Schoolgirl:「も～、私だって怒るときは怒るんだよ？　ちょっと反省してほしいな」
+Typical-Schoolgirl:「お互いに少し頭を冷やした方がいいかも。またね……」
+Typical-Schoolgirl:「キミが一緒だと時間がいくらあっても足りないね。次もいっぱい話そうね」
+Typical-Schoolgirl:「もう行かなきゃ。あのね……次はもっとエッチ成分多めでも、いいよ？」
+Typical-Schoolgirl:「それじゃ、私はそろそろ行こうかな。また話そ、バイバイ♪」
+Typical-Schoolgirl:「あ、ごめん。話し込んじゃったかな？　また時間のあるときにお喋りしようね」
+Typical-Schoolgirl:「また話そうね、バイバイ」
+[K]:「きみのことが好きなんだ」
+Typical-Schoolgirl:「えっと、あの、ごめんね？　まだ早いんじゃないかな」
+[K]:「きみのことが好きなんだ」
+Typical-Schoolgirl:「……うん。私も自分の気持ちを確かめてきた。好きだよ」
+Typical-Schoolgirl:「ごめんね、やっぱり私、まだハッキリさせられない、本当にごめんね」
+Typical-Schoolgirl:「ねえ、もし迷惑じゃなかったら……私と付き合ってください！」
+Typical-Schoolgirl:「えぇっいいの！？　わ、わ～～♪　嬉しいよ～これからよろしくね！」
+Typical-Schoolgirl:「そ、そっか、ダメか～。でも、これからもお友達だよね？　えへへ……」
+Typical-Schoolgirl:「あの、答えはわかってるんだけど、やっぱり好きで……ダメかな？」
+Typical-Schoolgirl:「……ホント？　ホントのホント！？　わぁい、キミの彼女になれた～」
+Typical-Schoolgirl:「う、うん、わかってた。だけど、これからもキミを好きでいていいよね？」
+[K]:「あ、あのさ……きみとHしたいなって」
+Typical-Schoolgirl:「えっと……ごめんね、付き合ってない人とそういうことはできないよ」
+[K]:「きみとHしたいな」
+Typical-Schoolgirl:「もう、私たちが友達同士ってちゃんとわかってる？　す、するけど……」
+Typical-Schoolgirl:「キミの気持ちもわかるけど、まだ私たち友達だから……ダメ」
+[K]:「ここできみとHしたいな」
+Typical-Schoolgirl:「もぉ、友達がいるのにＨなんて変態なんだから……人のこと、言えないけど♪」
+Typical-Schoolgirl:「ええっ！？　あそこにいる子友達だよ？　無理無理絶対無理！」
+[K]:「ここできみとHしたいな」
+Typical-Schoolgirl:「え～…もう…少しだけだよ？　誰か来そうだったらやめるからね？」
+Typical-Schoolgirl:「とっ、途中で他の子が来たらどうするの～？　さすがにダメだよぉ」
+Typical-Schoolgirl:「付き合ってないのはわかってるけど……私と……え、エッチ、してくれない？」
+Typical-Schoolgirl:「ごめんね急で。キミのことを考えてたら、我慢できなくなっちゃって」
+Typical-Schoolgirl:「あ……じょ、冗談！　じゃないけど、き、聞かなかったことにして！」
+[K]:「よかったらいっしょにお昼食べない？」
+Typical-Schoolgirl:「いいよ！　私も誘おうか迷ってたんだ～」
+Typical-Schoolgirl:「ごめんね。今日は友達と食べるからまた今度誘ってほしいな」
+Typical-Schoolgirl:「ねえねえ、今日のお昼何にするの？　よかったら一緒に食べたいな」
+Typical-Schoolgirl:「やったぁ。キミと食べたらご飯がおいしくなるんだよ、ホントに！」
+Typical-Schoolgirl:「タイミング悪かったかな。また今度誘うね」
+[K]:「一緒にコイカツしよう」
+Typical-Schoolgirl:「いいよ～。何をするか、もう決まってるの？」
+Typical-Schoolgirl:「ごめーん。今日はちょっと外せないんだ。また今度誘って」
+Typical-Schoolgirl:「ねえ、コイカツしない？　私から誘ってもいいんだよね？」
+Typical-Schoolgirl:「やったぁ。じゃあ、どうしよっか？」
+Typical-Schoolgirl:「ありゃ、他の子とするのかな？　そ、それなら仕方ないよねぇ」
+[K]:「一緒に帰らない？」
+Typical-Schoolgirl:「ちょうど私も帰るところだったし、いいよー」
+Typical-Schoolgirl:「あ、今日は居残りなんだーごめんね」
+Typical-Schoolgirl:「もし用事がないならでいいんだけど、一緒に帰らない？」
+Typical-Schoolgirl:「えへへ、ありがとー」
+Typical-Schoolgirl:「まだ学園にいるの？　そっかー、残念だけど、仕方ないね」
+[K]:「もしよかったら、デートしない？」
+Typical-Schoolgirl:「デートはまだ早い、かなぁ。キミとはもう少しゆっくり過ごしたいな」
+[K]:「またデートしたいんだけど、どうかな」
+Typical-Schoolgirl:「うん、いいよ。えへへ、おめかししなくちゃ」
+Typical-Schoolgirl:「あ、ゴメーン。最近ちょっと忙しいんだ」
+Typical-Schoolgirl:「そ、その……デート、しない？」
+Typical-Schoolgirl:「ほ～。デートに誘うのって緊張するね。えへへ、大成功～」
+Typical-Schoolgirl:「あ、全然大丈夫だよ。また今度誘うね！」
+[K]:「一緒に勉強しない？」
+Typical-Schoolgirl:「大賛成～、私もこのままじゃテストが大変でママに怒られちゃうんだ」
+Typical-Schoolgirl:「ごめん、今はちょっと。また今度誘ってもらっていい？」
+Typical-Schoolgirl:「ちょっと提案！　一緒にお勉強しない？」
+Typical-Schoolgirl:「は～助かるよ。教えてほしいところがあるんだー」
+Typical-Schoolgirl:「うう、そっか。じゃあ、ちょっと私だけで頑張ってみる！」
+[K]:「これから運動しようと思うんだけど、よかったら一緒にどう？」
+Typical-Schoolgirl:「あ、やるやる！　何するー？」
+Typical-Schoolgirl:「ごめん、これからみんなとするって約束なんだ。また今度ね」
+Typical-Schoolgirl:「キミ、スポーツ得意だっけ？　運動するんだけど一緒にどう？」
+Typical-Schoolgirl:「おっ、いい返事だったね。よーし、それじゃ元気よく運動しちゃおう！」
+Typical-Schoolgirl:「あれ、インドア派だったっけ？　ごめんねー」
+[K]:「コイカツ部に興味ない？　よかったら入ってほしいな」
+Typical-Schoolgirl:「うーん、もうちょっと考えさせてほしいな」
+Typical-Schoolgirl:「ちょっとお願いがあるんだけど、私をコイカツ部に入れてくれない？」
+[K]:「ちょっと付いてきて」
+Typical-Schoolgirl:「うん、なーに？」
+Typical-Schoolgirl:「あー、ごめんね！　これからしなきゃいけないことがあるから、また今度」
+Typical-Schoolgirl:「も～、堂々と入ってきて～。私も今度仕返ししちゃおうかな？」
+Typical-Schoolgirl:「わ、ダメだよ！　せめて女子の制服着てくるとか、ってもっとダメか」
+Typical-Schoolgirl:「もう、冒険家なんだから。誰かが来たら、二人でロッカーに入っちゃう？」
+Typical-Schoolgirl:「はぁ、来ると思った。みんな着替え中だから今はダメー」
+Typical-Schoolgirl:「ふーん。もう知らない。バイバイ」
+Typical-Schoolgirl:「なぁに？　私いまプンスカきてるんだけどな」
+Typical-Schoolgirl:「あれ、時間もうないね。またあとでゆっくり話そ？」
+Typical-Schoolgirl:「下着、キミに見せるとは思わなったからテキトーで……見ちゃダメ」
+Typical-Schoolgirl:「こらーっ。私はいいけど他の子は見ちゃダメぇ！　鼻の下伸ばすなーっ」
+Typical-Schoolgirl:「もう、私の水着姿を見たがるなんてキミぐらいだよ？　嬉しいけど」
+Typical-Schoolgirl:「他の子と私の身体を見比べないの。今の私で満足してほしいの」
+Typical-Schoolgirl:「あ、キミも気分転換？　えへへ、二人とも考えることは一緒だね」
+Typical-Schoolgirl:「えへへ、さっき友達に恋愛相談されちゃったよ～」
+Typical-Schoolgirl:「あはは、忘れ物をママに届けてもらってて……キミにもよろしくって言ってた」
+Typical-Schoolgirl:「なぁに？　カップルだけのナイショ話？」
+Typical-Schoolgirl:「むむー？　彼女をどこに連れ込もうとしてるのかな？　ダメだよ」
+Typical-Schoolgirl:「みんなにデートするって言ったら、もう質問攻めだよー、えへへ」
+Typical-Schoolgirl:「友達といるときもずっとキミのこと考えちゃう。いっぱい話そ♪」
+Typical-Schoolgirl:「あ、お話、だよね？　お話でも、他のことでも、いいよ？」
+Typical-Schoolgirl:「ちょっぴり恥ずかしいけど、よかったら私が頑張るところ見てってね？」
+Typical-Schoolgirl:「あ、いらっしゃい。コイカツ部と合同で活動できたらいいのにな～」
+Typical-Schoolgirl:「コイカツ中？　他に誰もいないなら、私としようよー」
+Typical-Schoolgirl:「ん～、休憩時間。えへへ、今日のお昼はどうするの？」
+Typical-Schoolgirl:「えへへ、HR中、ずっと時計ちらちら見てて先生に怒られちゃった」
+Typical-Schoolgirl:「びっくりしたぁ。でも、急にキミが視界に入ってくるのは嬉しいかも」
+Typical-Schoolgirl:「どんなお話しよっか。世間話？　コイバナ？　それとも……」
+[K]:「思い出の品とか宝物ってある？」
+Typical-Schoolgirl:「初めて出来た友達と買ったお守りかな。まだ大事に持ってるよ」
+Typical-Schoolgirl:「物に拘るタイプじゃないかも。でも、キミとの思い出は大切にしたいな」
+[K]:「マイブームってある？」
+Typical-Schoolgirl:「う～～～ん……キミ、かな？　えへへ、なーんちゃって」
+Typical-Schoolgirl:「特に、ない、かなぁ？　でもほしいかなー、一緒に探してくれる？」
+[K]:「寝るときはパジャマ？」
+Typical-Schoolgirl:「パジャマだよ？　え……他に着るものってあるの？」
+Typical-Schoolgirl:「違います。むっふっふ、そして、想像にお任せします」
+[K]:「将来の夢ってある？」
+Typical-Schoolgirl:「漠然とだけど決まってるよ。なれなかったら恰好悪いから教えないけど」
+Typical-Schoolgirl:「実はないんだ。だから大学で色んなことを勉強して見つけたいな」
+Typical-Schoolgirl:「うーん、ごめん、なんか違うみたい。別の話題にしよっか」
+[K]:「そういえば、授業中に猫が侵入してきて大騒ぎだったよ」
+Typical-Schoolgirl:「いいな～、うちにも何か来てほしいな、アライグマとか」
+[K]:「あまりにも取るに足らない話なんだけど……」
+Typical-Schoolgirl:「……うん。ここまで取るに足らないと、逆に面白いね」
+[K]:「俺のこと好き？」
+Typical-Schoolgirl:「えー、急になに言ってるのもう…………好ーき♪」
+Typical-Schoolgirl:「嫌い～。ごめん嘘、だからそんな捨てられた犬みたいな顔しないで～」
+[K]:「彼氏がデートに遅れてきたら待てる？」
+Typical-Schoolgirl:「怒ったり心配したりはするけど、帰りはしないかな。遅れないでね？」
+Typical-Schoolgirl:「５時間ぐらい遅れてきたら、さすがに帰っちゃってるかも？」
+[K]:「友達と彼氏だったら、彼氏の方が優先？」
+Typical-Schoolgirl:「そりゃあ、ね？　……友達には悪いけど、やっぱり大好きな人だから」
+Typical-Schoolgirl:「傷つけたらごめんね。友達とキミに優劣ってあまりつけたくないな」
+[K]:「今の彼氏と結婚したい？」
+Typical-Schoolgirl:「直球なのか違うのかわからないよ～も～…………したい、です♪」
+Typical-Schoolgirl:「ん～？　ん～……んふふ～……ナ・イ・ショ♪」
+Typical-Schoolgirl:「ちょ、ちょっと恥ずかしくなっちゃったから、今はこの話題はパスで」
+[K]:「[H]、好きだ」
+Typical-Schoolgirl:「も～……急に言われると心臓に悪いよ～……えへへへ、私も♪」
+[K]:「寝る前に[H]のことを想ってるとさ……」
+Typical-Schoolgirl:「……そ、そんなこと言われたらもう目見れないよ、はずかち～……」
+[K]:「生理って重い方？」
+Typical-Schoolgirl:「普通それ聞く？　も～、私にだけだからね？　ちょっと重め、かな？」
+Typical-Schoolgirl:「心配してくれてるって無理やり解釈するね？　あと教えません」
+[K]:「乳首って感じやすい？」
+Typical-Schoolgirl:「え、えっとぉ……うん。なんか、他のどこよりゾクッとしちゃう感じ？」
+Typical-Schoolgirl:「言わない～。あっコラ、何その言わないってことは～？　みたいな顔！」
+[K]:「アナルでも感じる？」
+Typical-Schoolgirl:「も～～～知ってて聞くんだからぁ。じゃあ耳貸して……お尻、好きだよ」
+Typical-Schoolgirl:「感じません。断じて感じません……え、その方がそそる？　こらー！」
+[K]:「やっぱり股間が一番感じる？」
+Typical-Schoolgirl:「もう開き直っちゃう！　キミのおちんちんのせいで一番感じるの！」
+Typical-Schoolgirl:「も～……そんなに知りたいなら、自分ので確かめてみれば？」
+Typical-Schoolgirl:「キミがエッチなのはわかってるから、強制話題チェーンジ！」
+[K]:「そういえば、初エッチって記念日にする？」
+Typical-Schoolgirl:「えっと、ね…………もう手帳に書きこんじゃってる……かも」
+[K]:「これは噂なんだけど……」
+Typical-Schoolgirl:「そ、そんなエッチなこと学園で話しちゃダメー！」
+Typical-Schoolgirl:「友達に私が恋に奥手すぎるって言われたけど、そうなのかな？」
+Typical-Schoolgirl:「キミがそう思うなら、もっと大胆になってみようかな？　え、エッチとかも」
+Typical-Schoolgirl:「……うん！　えへへ、私の歩調に合わせてくれるキミが、大好きだよ」
+Typical-Schoolgirl:「キミって家族は多い方がいい？　その、赤ちゃんは何人ほしい、とか」
+Typical-Schoolgirl:「そ、そうなんだー。それじゃ、いっぱい頑張らないと、だね？」
+Typical-Schoolgirl:「わかるかも。ずっと新婚みたいな夫婦っているもんね、えへへ」
+Typical-Schoolgirl:「あのね、笑わないで聞いてね？　私たちって、運命の人なのかなぁ」
+Typical-Schoolgirl:「……うん。キミがそうやって頷いてくれるなら、私もう何もいらないよ」
+Typical-Schoolgirl:「い、イジワルだ～。でも、こういうのって私たちっぽいかも、えへへ」
+Typical-Schoolgirl:「ねえ、ちょっとだけ目をつぶって」
+[K]:「？　こう？」
+Typical-Schoolgirl:「うん……チュッ。えへへ、今日は私から奪っちゃいました」
+Typical-Schoolgirl:「昨日、夢の中にキミが出てきたよ」
+[K]:「どんなだった？」
+Typical-Schoolgirl:「うーん……現実のキミの方が素敵かな、えへへっ」
+Typical-Schoolgirl:「そういえばさっき友達にね……」
+[K]:「うん……」
+Typical-Schoolgirl:「……って言われちゃった。キミと付き合ったからかも♪」
+Typical-Schoolgirl:「ねね、こっそり教えて……私のおっぱい、好き？」
+Typical-Schoolgirl:「……うん。キミが触ってくれたら、もっと大きくなっちゃうかも♪」
+Typical-Schoolgirl:「えへへ、ちょうどキミの手のひらに収まるために育ったのかなぁ」
+Typical-Schoolgirl:「小さいから嫌いだったんだけど、今はキミが愛してくれるから好き♪」
+Typical-Schoolgirl:「私の背の高さってキミにとって丁度いいくらいなのかな？」
+Typical-Schoolgirl:「キミがそう言ってくれるから、今では背筋をピンッと伸ばせるんだ♪」
+Typical-Schoolgirl:「キミにとって丁度いい背丈でよかった。これからも仲良く並んで歩こうね」
+Typical-Schoolgirl:「子ども扱いはイヤだけど、キミに優しく見下ろされるのは好きだよ♪」
+Typical-Schoolgirl:「男の子って女の子の体型のことよく話す？　私は今のままでいい？」
+Typical-Schoolgirl:「えへへ、嬉しいな。でも太りすぎないように注意するからね？」
+Typical-Schoolgirl:「うん！　キミが好きな私の身体、特徴がないなんてもう言わせないんだから」
+Typical-Schoolgirl:「キミのお陰で、ガリガリなんて言われても気にならなくなったよ」
+Typical-Schoolgirl:「も～、そんなこと言ってジロジロ見たり触ったりしてくるくせに～」
+Typical-Schoolgirl:「こーら、ちゃんと謝らないの、キミの悪いクセだよ」
+Typical-Schoolgirl:「うん。これからも沢山ケンカしちゃうかもだけど、その後は仲良くしようね」
+Typical-Schoolgirl:「ねえ。私の目をちゃんと見て、もう一回言って？」
+Typical-Schoolgirl:「……うふふ、なあに？」
+Typical-Schoolgirl:「もう、見すぎだよ～。ちょっと髪の毛直させて」
+Typical-Schoolgirl:「何度も見たいって思ってくれるのは嬉しいけど、さすがに照れちゃうから」
+Typical-Schoolgirl:「そんなに物欲しそうな目で見ても、何も出ないよ？　母乳？　ばか」
+Typical-Schoolgirl:「お話する時間がなくなっちゃうよ。おっぱい見ながらでいいから話そ？」
+Typical-Schoolgirl:「はぁ。もう好きなだけ見てて。私は何か別のことしてるから」
+Typical-Schoolgirl:「仲良しするのはキミが謝ってくれたら。ね？　これで謝れるでしょ？」
+Typical-Schoolgirl:「あっ……いきなりなんだから。私、キミの手を握り返してばっかりだね」
+Typical-Schoolgirl:「エッチしたから手ぐらいって思ってる？　同じぐらい恥ずかしいんだよ？」
+Typical-Schoolgirl:「もうダメ、禁止。これ以上したら、私の手が真っ赤っかになっちゃう」
+Typical-Schoolgirl:「んっ……ここで触らなくても……もう、ちょっとだけだよ？」
+Typical-Schoolgirl:「こらぁ、誰かが見てるかもしれないからダメ……んっ。エッチなんだから」
+Typical-Schoolgirl:「またぁ？　そんなに私のおっぱいが好きなの？　このおっぱい星人～」
+Typical-Schoolgirl:「……好きな人にナデナデしてもらうのって、安心するね……」
+Typical-Schoolgirl:「ちょっと撫ですぎじゃない？　気持ちいいからやめなくていいけど」
+Typical-Schoolgirl:「な、なんか、撫でられすぎて目が回ってきた……そろそろやめてー」
+Typical-Schoolgirl:「あ……ん……ん？　チューするんじゃないの？」
+Typical-Schoolgirl:「またほっぺ……チューしないんでしょ？　ほしくなるから、やめてー」
+Typical-Schoolgirl:「あーん、ひどいよぉ……チューして、ねえ……笑わないでよ～」
+Typical-Schoolgirl:「仲直りしたキミとだったら、たくさんしたいな、そういうこと」
+Typical-Schoolgirl:「付き合ってからもっとキミが好きになっちゃった。ずっと一緒にいてね」
+Typical-Schoolgirl:「キミと話してたら、暑くなってきちゃった。服、脱いじゃおうかなぁ？」
+Typical-Schoolgirl:「ねえ、もっと色んなお喋りしよ。もっとキミのこと知りたいから」
+Typical-Schoolgirl:「ゆっくり考えていいよ。キミとなら沈黙もイヤじゃないから……」
+Typical-Schoolgirl:「ねえ、何か言って。そうじゃないと私……」
+Typical-Schoolgirl:「ごめん、ちょっとの間だけ、距離を置こうか。バイバイ」
+Typical-Schoolgirl:「私、怒ってるというより、悲しいよ。今はあんまり話したくない。それじゃ」
+Typical-Schoolgirl:「チャイムにも嬉しいのと寂しいのがあるよね。今のは寂しいチャイム」
+Typical-Schoolgirl:「ねえ、次はちゃんと気づいてね？　キミのせいでこうなったんだから」
+Typical-Schoolgirl:「授業さぼっちゃいたいけど、さすがにダメだよね。それじゃ、またね」
+Typical-Schoolgirl:「そっかぁ。キミとはいっぱいお喋りしたいことあるから、また沢山喋ろうね」
+Typical-Schoolgirl:「うん、またね！　バイバーイ！」
+Typical-Schoolgirl:「そんな……私が怒ってるから？　私はただ……もういい、知らない」
+Typical-Schoolgirl:「……私たち、もう終わりにしよっか。ごめんね、勝手なこと言って」
+Typical-Schoolgirl:「もう、直球なんだから……イヤじゃないけどね。それじゃ、しよ？」
+Typical-Schoolgirl:「あのね、嫌いにならないでほしいんだけど、え、Hしたい、なぁって」
+Typical-Schoolgirl:「よ、よかったぁ。私から誘うのってはしたないかなって。本当に、嬉しい」
+Typical-Schoolgirl:「いつもキミがガツガツしてるのにこんなときだけお預け？　やぁん」
+[K]:「ここで[H]とHしたい」
+Typical-Schoolgirl:「もう……変態カップルって噂されちゃうよ？　私は別にいいけどぉ♪」
+Typical-Schoolgirl:「キミのことはよくわかってるから驚かないけど、さすがにダーメ」
+[K]:「ここで[H]とHしたい」
+Typical-Schoolgirl:「えっ、ここで？　でも、もし友達が来ちゃったら……すごく興奮するかも」
+Typical-Schoolgirl:「だ、ダメだよぉ。キミのエッチなところを見ていいのは私だけなの！」
+Typical-Schoolgirl:「うん、いいよ～。実はお弁当持ってきたんだ、一緒に食べよ♪」
+Typical-Schoolgirl:「ねね、一緒にお昼食べない？　いつもみたいに、おしゃべりしながらっ。お弁当もあるよ」
+Typical-Schoolgirl:「うん！　みんなにはナイショだけど、キミと食べるご飯が一番おいしいんだ」
+Typical-Schoolgirl:「え～……でも、仕方ないよね。次こそは一緒に食べようね。約束していい？」
+Typical-Schoolgirl:「オッケー。部長の恋人として、何でも張り切って頑張っちゃうよ」
+Typical-Schoolgirl:「ねね、私コイカツしたい！　というか、もっとキミといたいだけかも、えへへ」
+Typical-Schoolgirl:「ありがとー♪　それじゃあ、コイカツしに行こう～」
+Typical-Schoolgirl:「そっかぁ、予定があるんだね……あっ、気にしないで！　私の我がままだし」
+Typical-Schoolgirl:「実は私も一緒に帰りたかったんだぁ。手、繋いでもいいかな」
+Typical-Schoolgirl:「私と一緒に帰ってくれる人、この指とーまれ！」
+Typical-Schoolgirl:「えへへ、キミが一番乗り。それじゃあ、帰ろう♪」
+Typical-Schoolgirl:「か、帰れないならジーッと見てないで言ってよぉ、恥ずかしいなぁもう」
+Typical-Schoolgirl:「うん、いいよ。えへへ、デート、デート～♪」
+Typical-Schoolgirl:「デート、デェト、デ～ト～、チラッ？　デートー、デートー♪　チラッ？」
+Typical-Schoolgirl:「あはは、ありがと。歌い終わった後から恥ずかしくなってきちゃった」
+Typical-Schoolgirl:「むむぅ、誘ってないですよーだ。デートの歌を歌ってただけですー」
+Typical-Schoolgirl:「いいよ～。彼氏とお勉強だなんてすっごく青春だよ～♪」
+Typical-Schoolgirl:「今、時間ある？　一緒に今日の復習しちゃわない？」
+Typical-Schoolgirl:「よかった。キミと勉強すると楽しい上に捗るんだ～」
+Typical-Schoolgirl:「残念だけど、仕方ないよね。ノート見たかったらいつでも言ってね」
+Typical-Schoolgirl:「エッチな運動、とか言わないよね？　それならいいよ、ふふっ」
+Typical-Schoolgirl:「ねね、普通の運動しよ、普通の」
+Typical-Schoolgirl:「油断するとエッチな運動とか言いかねないからね、キミは。じゃ、しよ」
+Typical-Schoolgirl:「チェー。じゃあまた今度ね。エッチならする、とか言わないよね？」
+[K]:「付いてきてもらってもいい？」
+Typical-Schoolgirl:「うん、一緒に歩こ♪」
+Typical-Schoolgirl:「一緒に歩いてどうするの？」
+Typical-Schoolgirl:「うん」「いいよ！」「もちろん♪」「うんっ♡」「オッケー！」
+Typical-Schoolgirl:「そうかな～」「うーん？」「それは～…」「えーと…」「あー、ごめんね！」
+Typical-Schoolgirl:「うんうん」「ふむふむ」「それでそれでっ？」「そうなんだ♪」「へ～！」
+Typical-Schoolgirl:「えぇ～！」「う、うそーっ？」「それ、本当！？」「す、すごいねぇ！」「ほえー！」
+Typical-Schoolgirl:「わ～♪」「やった～♪」「えへへへ♪」「嬉しいよ♪」「えへへ♡」
+Typical-Schoolgirl:「ちょっとぉ」「も～」「こ、こらーっ」「ダメだよ～」「まったくもう！」
+Typical-Schoolgirl:「ううぅ……」「そんなぁ……」「やだよぉ……」「なんでぇ？」「ひどいよぉ」
+Typical-Schoolgirl:「えへへっ」「あははっ」「んっふっふー」「いいねいいね～」「ひゃっほー」
+Typical-Schoolgirl:「恥ずかしいよぉ」「も、もぉ～～～」「あ、あんまり見ちゃダメ！」「キミはまたそういう～」「あうう……」
+Typical-Schoolgirl:「きいて？きいて？」「ねね、ちょっといい？」「あっ、そうだ！」「そういえば！」「今、思い出したんだけどね」
+[K]:「ねぇ、[Hあだ名]。また、愛称で呼んで欲しいな」
+Typical-Schoolgirl:「……いいよ。それじゃあ……[Pあだ名]。うう、やっぱり恥ずかしい……」
+Typical-Schoolgirl:「……こらー、こんなときにその呼び方はなし！」
+Typical-Schoolgirl:「えへへ……[Pあだ名]」
+[K]:「どうしたの？　[Hあだ名]」
+Typical-Schoolgirl:「う～、今のすごくラブラブカップルっぽかったね♪」
+Typical-Schoolgirl:「うん、いいよ。今日はいつもよりラブラブなエッチがしたいな、[Pあだ名]」
+Typical-Schoolgirl:「ねね、さっき友達からエッチな話聞いちゃって……エッチしたくなったの。ダメかな？　[Pあだ名]」
+Typical-Schoolgirl:「やっほー、お話しよっ？」
+Typical-Schoolgirl:「やっほー、[Pあだ名]。お話しよっ？」
+Typical-Schoolgirl:「きゃあぁっ！　ダメダメ、見ちゃダメ～っ！」
+Typical-Schoolgirl:「きゃっ……！　まったく……男の子ってエッチなことばっかり考えてるんだね」
+Typical-Schoolgirl:「きゃっ！　も～、ここは男子禁制だよ。早く出て行く、ほら早く」
+Typical-Schoolgirl:「こんなとこに入ってきて、もう～……。本当はダメなんだからね？」
+Typical-Schoolgirl:「ちょっと、何で入ってきてるの～。あっ、他の子を見ようとしちゃダメ！」
