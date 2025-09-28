@@ -34,7 +34,7 @@ Russian Koikatsu translation project. Репозиторий содержит ф
 | Директория | Этап | Описание |
 | ---- | ---- | ---- |
 | `action/list/event` | - | Event titles |
-| `adv` | - | main game dialogs |
+| `adv` | загружено | main game dialogs |
 | `communication` | загружено | main game dialogs |
 | `custom/customscenelist` | - | Maker Pose Text |
 | `etcetra/list/nickname` | - |Call Names |
