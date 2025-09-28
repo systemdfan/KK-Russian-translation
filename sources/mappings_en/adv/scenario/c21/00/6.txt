@@ -1,0 +1,3 @@
+Typical-Schoolgirl:「うん？　いいけど、どこ行くの？」
+[P名]:「まだナイショ」
+Typical-Schoolgirl:「えー、どこだろう。変なところはダメだよ？」

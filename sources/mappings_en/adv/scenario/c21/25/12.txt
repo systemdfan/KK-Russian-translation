@@ -1,0 +1,4 @@
+Typical-Schoolgirl:「……うん」
+[P名]:「本当にいいの？」
+Typical-Schoolgirl:「キミのこと、大好きだから……大切な人だから、いいよ」
+Typical-Schoolgirl:「私の初めて……もらってください」

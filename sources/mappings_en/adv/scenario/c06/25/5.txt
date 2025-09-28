@@ -1,0 +1,3 @@
+Yamamoto-Nadeshiko:「では、準備体操をいたしましょう」
+[P名]:「きみは運動得意？」
+Yamamoto-Nadeshiko:「運動系の習い事もしておりますので。では、向かいましょう」
