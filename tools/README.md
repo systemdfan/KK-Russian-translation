@@ -8,3 +8,9 @@ Parse-Communication.ps1 <входная_директория> <выходная 
 
 ## Koikatsu SB3U ADV Extractor
 [Экстрактор ADV](https://github.com/systemdfan/Koikatsu-SB3UAE/)
+
+## Find-Duplicates.ps1
+Рекурсивный поиск дублирующихся файлов по содержанию
+
+### Использование
+Find-Duplicates.ps1 <диретория для поиска>
