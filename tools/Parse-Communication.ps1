@@ -109,10 +109,10 @@ function Parse-CommunicationFile {
                     }
                     $result += "$prefix`:$targetCell"
                 } else {
-                    $result += "[K]:$targetCell"
+                    $result += "[P名]:$targetCell"
                 }
             } else {
-                $result += "[K]:$targetCell"
+                $result += "[P名]:$targetCell"
             }
         }
     }
